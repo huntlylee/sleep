@@ -4,7 +4,7 @@ Created on Thu Sep  9 00:37:18 2021
 
 file name: read and plot update insp detection.py
 
-@author: liy45
+@author: Yike Li MD, PhD, Dept Otolaryngology-Head & Neck Surgery, VUMC
 """
 
 
