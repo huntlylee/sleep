@@ -1,6 +1,6 @@
 # An Informatics System for Breath-by-Breath Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research 
 
-This repository was established to share the source code and latest updates for the application developed by Yike Li and colleagues at Vanderbilt University Medical Center. The application is aimed to facilitate breath-by-breath analysis of sleep data. Part of this system is detailed in the following publication: 
+This repository was established to share the source code and latest updates for the informatics system developed by Yike Li and colleagues at Vanderbilt University Medical Center. The system is designed to facilitate breath-by-breath analysis of sleep data, as detailed in the following publication: 
 
 **Li Y, Hall ME, Shotwell MS, Xu Y, Schwartz AR, Zealear D, Bellotto S, Estes KE, Wells CL, Budnick HA, Lindsell CJ, Bao S, Kent DT. An Informatics System for Breath-by-Breath Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research. _Proc SPIE Int Soc Opt Eng._ 2025 Feb. (Accepted)**
 
