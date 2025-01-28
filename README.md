@@ -1,5 +1,7 @@
 # An Informatics System for Breath-by-Breath Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research 
 
-This repository was established to share the source code and latest updates for the application developed by Yike Li and colleagues at Vanderbilt University Medical Center. The application facilitates breath-by-breath analysis of sleep data. Part of this system is detailed in the publication: Li Y, Hall ME, Shotwell MS, Xu Y, Schwartz AR, Zealear D, Bellotto S, Estes KE, Wells CL, Budnick HA, Lindsell CJ, Bao S, Kent DT. An Informatics System for Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research. Proc SPIE Int Soc Opt Eng. 2025 Feb. (Accepted)
+This repository was established to share the source code and latest updates for the application developed by Yike Li and colleagues at Vanderbilt University Medical Center. The application facilitates breath-by-breath analysis of sleep data. Part of this system is detailed in the publication: 
+
+Li Y, Hall ME, Shotwell MS, Xu Y, Schwartz AR, Zealear D, Bellotto S, Estes KE, Wells CL, Budnick HA, Lindsell CJ, Bao S, Kent DT. An Informatics System for Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research. Proc SPIE Int Soc Opt Eng. 2025 Feb. (Accepted)
 
 We are in the process of deploying this system as a web-based application with a graphical user interface (GUI) to enhance accessibility for the sleep research community. The application can be accessed at https://prod.tbilab.org/KentSleepApp. Please note that the application is temporarily offline for maintenance and software updates. Stay tuned for our updates.
