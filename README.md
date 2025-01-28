@@ -6,9 +6,9 @@ This repository was established to share the source code and latest updates for 
 
 This methodology has also led to significant scientific discoveries related to OSA and several impactful publications:
 
-1. Li Y, Schwartz AR, Zealear D, et al. Ansa cervicalis stimulation effects on upper airway patency: a structure-based analysis. _Eur Respir J._ 2025;65(1):2400901. Published 2025 Jan 16. doi:10.1183/13993003.00901-2024
-2. Li Y, Richard KE, Schwartz AR, et al. Quantitative Effects of Ansa Cervicalis Stimulation in Obstructive Sleep Apnea. _Am J Respir Crit Care Med._ 2023;207(8):1097-1099. doi:10.1164/rccm.202212-2318LE
-3. Kent DT, Li Y. Percutaneous Approaches to Hypoglossal Nerve Stimulation: A Pilot Study During Drug-Induced Sleep Endoscopy. _Otolaryngol Head Neck Surg._ 2024;171(4):1250-1253. doi:10.1002/ohn.880
+1. Li Y, Schwartz AR, Zealear D, Shotwell MS, Hall ME, Lindsell CJ, Budnick HA, Bellotto S, Kent DT. Ansa cervicalis stimulation effects on upper airway patency: a structure-based analysis. _Eur Respir J._ 2025 Jan 16;65(1):2400901. doi: 10.1183/13993003.00901-2024. PMID: 39401858; PMCID: PMC11740831.
+2. Li, Y., Richard, K. E., Schwartz, A. R., Zealear, D., Lindsell, C. J., Budnick, H. A., & Kent, D. T. (2023). Quantitative Effects of Ansa Cervicalis Stimulation in Obstructive Sleep Apnea. _American journal of respiratory and critical care medicine_, 207(8), 1097–1099. https://doi.org/10.1164/rccm.202212-2318LE
+3. Kent DT, Li Y. Percutaneous Approaches to Hypoglossal Nerve Stimulation: A Pilot Study During Drug-Induced Sleep Endoscopy. _Otolaryngol Head Neck Surg._ 2024 Oct;171(4):1250-1253. doi: 10.1002/ohn.880. Epub 2024 Jun 29. PMID: 38943442.
  
 
 We are in the process of deploying this system as a web-based application with a graphical user interface (GUI) to enhance accessibility for the sleep research community. The application can be accessed at https://prod.tbilab.org/KentSleepApp. Please note that the application is temporarily offline for maintenance and software upgrades. Stay tuned for our updates.
