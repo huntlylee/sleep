@@ -11,6 +11,7 @@ This methodology has also led to significant scientific discoveries related to o
 1. Li Y, Schwartz AR, Zealear D, Shotwell MS, Hall ME, Lindsell CJ, Budnick HA, Bellotto S, Kent DT. Ansa cervicalis stimulation effects on upper airway patency: a structure-based analysis. _Eur Respir J._ 2025 Jan 16;65(1):2400901. doi: 10.1183/13993003.00901-2024. PMID: 39401858; PMCID: PMC11740831.
 2. Li Y, Richard KE, Schwartz AR, Zealear D, Lindsell CJ, Budnick HA, Kent DT. Quantitative Effects of Ansa Cervicalis Stimulation in Obstructive Sleep Apnea. _Am J Respir Crit Care Med._ 2023 Apr 15;207(8):1097-1099. doi: 10.1164/rccm.202212-2318LE. PMID: 36656553; PMCID: PMC10112453.
 3. Kent DT, Li Y. Percutaneous Approaches to Hypoglossal Nerve Stimulation: A Pilot Study During Drug-Induced Sleep Endoscopy. _Otolaryngol Head Neck Surg._ 2024 Oct;171(4):1250-1253. doi: 10.1002/ohn.880. Epub 2024 Jun 29. PMID: 38943442.
+4. Kent DT, Ceremsak JJ, Li Y, Yalamanchi P, Mannion K, Zealear D, Shotwell MS, Hall ME, Lindsell CJ, Budnick HA, Bellotto S, Estes KE, Wells CL, Schwartz AR. Glossopharyngeal Nerve Stimulation Stabilizes the Lateral Pharyngeal Wall and Ventilation in OSA: A Pilot Study. _Chest_. 2025 Feb 18:S0012-3692(25)00166-7. doi: 10.1016/j.chest.2025.02.009. Epub ahead of print. PMID: 39978725.
  
 ## Deployment
 We are in the process of deploying this system as a web-based application with a graphical user interface (GUI) to enhance accessibility for the sleep research community. The application can be accessed at https://prod.tbilab.org/KentSleepApp. 
