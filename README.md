@@ -3,7 +3,7 @@
 ## Overview
 This repository was established to share the source code and latest updates for the informatics system developed by Yike Li and colleagues at Vanderbilt University Medical Center. The system is designed to facilitate breath-by-breath analysis of sleep data, as detailed in the following publication: 
 
-**Li Y, Hall ME, Shotwell MS, Xu Y, Schwartz AR, Zealear D, Bellotto S, Estes KE, Wells CL, Budnick HA, Lindsell CJ, Bao S, Kent DT. An Informatics System for Breath-by-Breath Analysis of Large-Scale Multi-Modal Time-Series Data in Sleep Research. _Proc SPIE Int Soc Opt Eng._ 2025 Feb. (Accepted)**
+**Yike Li, Megan E. Hall, Matthew S. Shotwell, Yaomin Xu, Alan R. Schwartz, David Zealear, Silvana Bellotto, Katie E. Estes, Carol L. Wells, Holly A. Budnick, Christopher J. Lindsell, Shunxing Bao, and David T. Kent "An informatics system for breath-by-breath analysis of large-scale multimodal time-series data in sleep research", _Proc. SPIE 13411, Medical Imaging 2025: Imaging Informatics, 134110C_ (10 April 2025); https://doi.org/10.1117/12.3049101**
 
 ## Relevant research
 This methodology has also led to significant scientific discoveries related to obstructive sleep apnea (OSA) and several impactful publications:
@@ -16,7 +16,7 @@ This methodology has also led to significant scientific discoveries related to o
  
 ## Deployment
 We are in the process of deploying this system as a web-based application with a graphical user interface (GUI) to enhance accessibility for the sleep research community. The application can be accessed at https://prod.tbilab.org/KentSleepApp. 
-**Update as of 2025-01-29:**  Please note that the application is temporarily offline for maintenance and software upgrades. Stay tuned for further updates.
+**Update as of 2025-09-30:**  Please note that the application is temporarily offline for maintenance and software upgrades. Stay tuned for further updates.
 
 ## Contact
 If you have any questions, feel free to reach me at: yike.li.1@vumc.org
